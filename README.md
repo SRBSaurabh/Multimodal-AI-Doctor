@@ -1,4 +1,4 @@
-# AI Doctor 2.0
+# AI Doctor  
 
 **Medical Chatbot with MultiModal LLM (Vision & Voice)**
 
@@ -17,7 +17,7 @@
 
 ## Project Overview
 
-**AI Doctor 2.0** is a **medical chatbot** leveraging **multimodal LLMs** to enable **vision and voice-based interaction**. The project includes **image-based medical diagnostics, speech-to-text transcription, and text-to-speech conversion**, offering an interactive healthcare AI assistant.
+**AI Doctor  ** is a **medical chatbot** leveraging **multimodal LLMs** to enable **vision and voice-based interaction**. The project includes **image-based medical diagnostics, speech-to-text transcription, and text-to-speech conversion**, offering an interactive healthcare AI assistant.
 
 ---
 
